@@ -311,7 +311,7 @@ A DAG is a network of tasks that:
 ## Links
 - [What is dbt? | dbt Developer Hub](https://docs.getdbt.com/docs/introduction)
 - [dbt Labs | Transform Data in Your Warehouse](https://www.getdbt.com/)
-- [(129) dbt - YouTube](https://www.youtube.com/@dbt-labs)
+- [dbt - YouTube Channel](https://www.youtube.com/@dbt-labs)
 - [Dbt Training Getting Started](https://courses.getdbt.com/courses/fundamentals)
 - [dbt Quickstarts | dbt Developer Hub](https://docs.getdbt.com/quickstarts)
 - [Introduction to dbt (data build tool) from Fishtown Analytics](https://www.youtube.com/watch?v=5rNquRnNb4E)
